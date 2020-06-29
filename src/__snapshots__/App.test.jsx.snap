@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders currently 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <p>
+      12fa6ae8-75d3-40b3-97af-172d0a304d37
+    </p>
+  </div>
+</div>
+`;
